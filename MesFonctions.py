@@ -11,5 +11,5 @@ def table(nb, max=10):
 
 # test de la fonction table
 if __name__ == "__main__" :
-    table(4)
+    table(7)
     os.system("pause")
