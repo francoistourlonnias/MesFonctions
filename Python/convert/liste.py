@@ -3,8 +3,8 @@ l=['Jean-Michel', 'Marc', 'Vanessa', 'Anne', 'Maximilien', 'Alexandre-Benoît', 
 print (len("tourlonnias"))
 print (len(l))
 for i in l:
-    print("le prénom :",i,"contient ",len(i),"caractères")
-    print("le pénom %s  trucmuche",%i)
+    print("le prenom :",i,"contient ",len(i),"caracteres")
+    print("le prenom %s  trucmuche",i)
     
 for i in "tourlonnias":
     print(i)
