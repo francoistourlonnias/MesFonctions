@@ -3,5 +3,5 @@ import os
 from MesFonctions import *
 
 # test de la fonction table
-table(3, 20)
+table(3, 10)
 os.system("pause")
