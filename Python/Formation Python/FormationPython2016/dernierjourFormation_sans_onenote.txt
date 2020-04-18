@@ -1,0 +1,45 @@
+expression regulieres en python
+prefixer avec r pour dire a python mode brut (mode raw)
+
+tkregex sur internet pour aider a faire les expressions regulieres
+ou logiciel formateur: Bonus/regexp-tester.py
+
+
+import csv
+fd=open (fichier)
+for input in csvreader
+
+ou
+import csvfor input in csv.reader(oprn(filename1,'r')):
+	if input:
+	
+exeptions gere l'échec
+gestionniares de contexte pour gerer le succes => with   with open(...) as fd, open (...,'w') as fdout:
+fd est necessairement ouvert fdout aussi
+
+=> en sortie du with, fd et fdout sont fermés automatiquement:
+try:
+	with ...
+	.....
+	except FilenotFound:
+	
+	plus de else  with va fermer les contextes ouverts -ici les fichiers-
+	
+	
+	jp@xiasma.fr
+	http://jp.xiasma.fr/lti/nokia/468-1/
+	
+	pypi.python.org  annuaire de modules 
+	==================================================================================================================
+	
+	lxml
+	XML appartient a une famille de langage balisé
+	
+	JSON: javaScript Object Notation ... AJAX notation simple pour des type de données complexes  deviens une norme 
+	
+	décorateur (voir bonus @surveille)
+	
+	comment interfacer C/C++ et Python
+	
+	
+	
