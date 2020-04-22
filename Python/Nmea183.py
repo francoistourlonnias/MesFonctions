@@ -1,5 +1,9 @@
 
 # -*- encoding: utf-8 -*-
+
+#Protocole	NMEA	0183	:	(National	Marine	Electronics	Association)	protocole	utilisé	par	les	récepteurs	
+#GPS	pour	fournir	la	localisation	sous	une	forme	de	trame	normalisée	facilement	décodable.	
+
 #decodage d'une trame NMEA
 trame = "$GPGGA, 064036.289, 4836.5375, N, 00740. 9373, E, 1, 04, 3.2, 200.2, M, , , , 0000*0E"
 
