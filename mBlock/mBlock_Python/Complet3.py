@@ -8,6 +8,7 @@ def on_keypressed():
     global null
     v = sprite.get_variable('vitesse')
     sprite.set_variable('vitesse', v + 10)
+
 @event.keypressed('z')
 def on_keypressed1():
     global null
